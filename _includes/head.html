@@ -25,5 +25,13 @@
   <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/{{ "css/gallery.css" }}" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.2/picturefill.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.0/imagesloaded.pkgd.min.js"></script>
+  <script src="https://cdn.scaleflex.it/plugins/js-cloudimage-responsive/2.2.0/js-cloudimage-responsive.min.js"></script>
   {% endif %}
+
+  <script>
+    const ciResponsive = new window.CIResponsive({
+      token: 'demo',
+      baseUrl: 'https://glava.github.io/vincent_van_gogo/assets/photography/' // optional
+    });
+</script>
 </head>
