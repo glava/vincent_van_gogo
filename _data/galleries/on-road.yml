@@ -1,0 +1,21 @@
+picture_path: on-road
+preview:
+  filename: 000004
+  original: 000004.JPG
+  sizes:
+  - 000004.JPG  
+  thumbnail: 000004.JPG
+pictures:
+- filename: 000061_2.JPG
+  original: 000061_2.JPG
+  thumbnail: thumbnail/000061_2.JPG
+- filaname: 32_01060
+  original: 32_01060.jpg
+  thumbnail: thumbnail/32_01060.jpg
+- filaname: 000065
+  original: 000065.JPG        
+  thumbnail: thumbnail/000065.JPG    
+- filaname: 000067
+  original: 000067.JPG        
+  thumbnail: thumbnail/000067.JPG    
+
